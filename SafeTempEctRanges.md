@@ -11,3 +11,6 @@ About 2 mbars (depends on temperature of heated capillary)  (Source: Exactive Se
 3E-05 mbar (Source: Exactive Series Operating Manual Page 38, 3-16)
 ### Orbitrap analyzer (Ultra High Vacuum)
 < 8E-10 mbar (Source: Exactive Series Operating Manual Page 38, 3-16)
+## Instrument Temperatures
+### Capillary Temperature
+0-450 Degrees Celeius (Source: Q Exactive Software Manual Page 132, 4-20)
